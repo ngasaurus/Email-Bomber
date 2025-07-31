@@ -1,7 +1,20 @@
 fsociety Email Bomber v2 - Setup Instructions and Folder Structure
 =================================================================
 
-(usage guide for configuration)
+1. Folder Structure
+------------------
+
+Create a project folder named:
+
+fsociety-email-bomber-v2/
+
+Inside this folder, create these files:
+
+- fsociety_email_bomber_v2.py     (your main Python script)
+- README.md                      (project description and instructions)
+- requirements.txt               (Python dependencies)
+- .gitignore                    (files to ignore for Git)
+- how_to_use_and_configuration.txt  (usage guide for configuration)
 
 2. Creating the folder and files
 --------------------------------
